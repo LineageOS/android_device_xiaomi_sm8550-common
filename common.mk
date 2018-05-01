@@ -248,6 +248,9 @@ PRODUCT_PACKAGES += \
     TelephonyOverlayCommon \
     WifiOverlayCommon
 
+PRODUCT_PACKAGES += \
+    LineageResXiaomi
+
 # Partitions
 PRODUCT_PACKAGES += \
     vendor_bt_firmware_mountpoint \
