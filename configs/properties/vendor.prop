@@ -185,9 +185,6 @@ ro.surface_flinger.wcg_composition_dataspace=143261696
 vendor.gralloc.disable_ubwc=0
 vendor.gralloc.enable_logs=0
 
-# Keyguard
-keyguard.no_require_sim=true
-
 # Media
 debug.c2.use_dmabufheaps=1
 debug.stagefright.c2inputsurface=-1
@@ -259,4 +256,3 @@ ro.hardware.wlan.mimo=1
 ro.hardware.wlan.vendor=qcom
 ro.vendor.net.enable_passpoint_r1=1
 wifi.aware.interface=wifi-aware0
-
