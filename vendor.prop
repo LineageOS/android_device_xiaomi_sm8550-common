@@ -307,6 +307,7 @@ persist.vendor.radio.procedure_bytes=SKIP
 persist.radio.multisim.config=dsds
 ro.vendor.radio.build_region=cn
 ro.com.android.dataroaming=true
+ro.telephony.default_network=33,33
 persist.vendor.radio.enableadvancedscan=true
 
 # RCS
