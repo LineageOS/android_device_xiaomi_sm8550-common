@@ -92,10 +92,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.automotive.vehicle@2.0-manager-lib
 
-# Atrace
-PRODUCT_PACKAGES += \
-    android.hardware.atrace@1.0-service
-
 # Bluetooth
 PRODUCT_PACKAGES += \
     audio.bluetooth.default \
@@ -109,7 +105,7 @@ PRODUCT_PACKAGES += \
     lib_bt_aptx \
     lib_bt_ble \
     lib_bt_bundle
-    
+
 # Boot control
 PRODUCT_PACKAGES += \
     android.hardware.boot-service.qti \
