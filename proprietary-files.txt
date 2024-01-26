@@ -820,14 +820,6 @@ vendor/lib64/vendor.qti.hardware.limits@1.0.so
 vendor/lib64/vendor.qti.hardware.limits@1.1.so
 vendor/lib64/vendor.qti.hardware.limits@1.2.so
 
-# MFIDOCA
-odm/bin/fidoca
-odm/etc/init/vendor.xiaomi.hardware.mfidoca@1.0-service.rc
-odm/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mfidoca.xml
-odm/lib64/libmfido.so
-odm/lib64/libmt.so
-odm/lib64/libmt@1.3.so
-
 # MLIPAY
 odm/bin/mlipayd@1.1
 odm/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc
@@ -841,11 +833,6 @@ odm/etc/init/mrm.rc
 odm/etc/vintf/manifest/mrm.xml
 odm/lib64/libmiriskmanager.so
 odm/lib64/vendor.xiaomi.hardware.mrm-V1-ndk_platform.so
-
-# MTD
-odm/bin/mtd@1.3
-odm/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc
-odm/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.mtdservice.xml
 
 # Media
 vendor/bin/hw/qconfigservice
@@ -1045,8 +1032,6 @@ system/etc/sysconfig/qti_whitelist.xml
 vendor/bin/init.qti.write.sh
 vendor/bin/irsc_util
 vendor/bin/qmipriod
-vendor/bin/qrtr-cfg
-vendor/bin/qrtr-lookup
 vendor/bin/qrtr-ns
 vendor/etc/init/qmipriod.debug.rc
 vendor/etc/init/qmipriod.rc
@@ -1329,15 +1314,6 @@ vendor/lib64/vendor.qti.hardware.soter@1.0.so
 # TFTP
 vendor/bin/tftp_server
 vendor/etc/init/vendor.qti.tftp.rc
-
-# TIDA
-odm/bin/tidad@1.2
-odm/etc/init/vendor.xiaomi.hardware.tidaservice@1.2-service.rc
-odm/etc/vintf/manifest/manifest_vendor.xiaomi.hardware.tidaservice.xml
-odm/lib64/libtida@1.2.so
-odm/lib64/vendor.xiaomi.hardware.tidaservice@1.0.so
-odm/lib64/vendor.xiaomi.hardware.tidaservice@1.1.so
-odm/lib64/vendor.xiaomi.hardware.tidaservice@1.2.so
 
 # Thermal (Xiaomi)
 vendor/bin/mi_thermald
