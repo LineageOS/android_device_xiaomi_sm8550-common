@@ -31,6 +31,9 @@
         <item>3</item>
     </integer-array>
 
+    <!-- Shutdown if the battery temperature exceeds (this value * 0.1) Celsius. -->
+    <integer name="config_shutdownBatteryTemperature">580</integer>
+
     <!-- Configure mobile tcp buffer sizes in the form:
         rat-name:rmem_min,rmem_def,rmem_max,wmem_min,wmem_def,wmem_max
         If no value is found for the rat-name in use, the system default will be applied.
