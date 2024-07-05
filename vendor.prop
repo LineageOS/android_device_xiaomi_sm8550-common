@@ -129,7 +129,6 @@ vendor.qc2audio.per_frame.flac.dec.enabled=true
 vendor.audio.spkcal.copy.inhal=true
 vendor.audio.compress_capture.enabled=true
 vendor.audio.compress_capture.aac=true
-debug.stagefright.omx_default_rank=0
 vendor.audio.hal.output.suspend.supported=true
 aaudio.mmap_policy=2
 aaudio.mmap_exclusive_policy=2
@@ -279,7 +278,6 @@ keyguard.no_require_sim=true
 
 # Media
 debug.stagefright.c2inputsurface=-1
-debug.stagefright.ccodec=4
 debug.c2.use_dmabufheaps=1
 ro.mediaserver.64b.enable=true
 vendor.mm.enable.qcom_parser=16777215
