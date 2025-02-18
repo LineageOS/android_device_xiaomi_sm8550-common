@@ -317,6 +317,9 @@ PRODUCT_PACKAGES += \
     qti_telephony_utils.xml
 
 PRODUCT_PACKAGES += \
+    qcrilNrDb_vendor
+
+PRODUCT_PACKAGES += \
     xiaomi-telephony-stub
 
 PRODUCT_BOOT_JARS += \
