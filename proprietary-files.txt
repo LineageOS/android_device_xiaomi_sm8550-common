@@ -12,8 +12,6 @@ vendor/etc/acdbdata/kalama_grd/GRD_acdb_cal.acdb
 vendor/etc/acdbdata/kalama_grd/GRD_workspaceFileXml.qwsp
 vendor/etc/acdbdata/kalama_qrd/QRD_acdb_cal.acdb
 vendor/etc/acdbdata/kalama_qrd/QRD_workspaceFileXml.qwsp
-vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd
-vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_2.10_enpuv3.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__3.1.0_0.0__3.2.0_0.0__eai_2.7_enpu3.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.36_enpu2.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd
@@ -33,6 +31,8 @@ vendor/etc/acdbdata/nn_ns_models/fai__4.8.2_0.0__3.0.0_0.0__3.1.1.0_0.0__3.2.0_0
 vendor/etc/acdbdata/nn_ns_models/fai__4.8.3_0.0__3.0.0_0.0__3.1.0_0.0__3.2.0_0.0__eai_2.10_enpuv3.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__4.8.4_0.0__3.0.0_0.0__3.1.1_0.0__3.2.0_0.0__eai_2.10_enpuv3.pmd
 vendor/etc/acdbdata/nn_ns_models/fai__4.8.4_0.0__3.0.0_0.0__3.1.1_0.0__3.2.0_0.1__eai_2.10_enpuv3.pmd
+vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd
+vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_2.10_enpuv3.pmd
 
 # ADSP
 vendor/bin/adsprpcd
@@ -46,10 +46,6 @@ vendor/lib64/libloadalgo_stub.so
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 
 # Audio
-odm/etc/UserDefinedMi.udm
-odm/etc/XiaoAiNiZaiNaMi.udm
-odm/etc/XiaoAiTongXueMi.udm
-odm/etc/audio-test-config
 odm/etc/audio/RES1K.wav
 odm/etc/audio/bottom_spk.wav
 odm/etc/audio/bottom_spk_hp.wav
@@ -66,18 +62,22 @@ odm/etc/audio/silent-3sec.wav
 odm/etc/audio/spk.wav
 odm/etc/audio/top_spk.wav
 odm/etc/audio/top_spk_hp.wav
-odm/etc/backend_conf.xml
 odm/etc/init/init.cirrus.rc
+odm/etc/UserDefinedMi.udm
+odm/etc/XiaoAiNiZaiNaMi.udm
+odm/etc/XiaoAiTongXueMi.udm
+odm/etc/audio-test-config
+odm/etc/backend_conf.xml
 odm/lib64/libaudioroute_ext.so
-vendor/etc/audio_diag.cfg
-vendor/etc/default_volume_tables.xml
-vendor/etc/kvh2xml.xml
-vendor/etc/misound_asc_model.tflite
 vendor/etc/models/acd/event.eai
 vendor/etc/models/acd/music.eai
 vendor/etc/models/acd/speech.eai
 vendor/etc/seccomp_policy/c2audio.vendor.base-arm64.policy
 vendor/etc/seccomp_policy/c2audio.vendor.ext-arm64.policy
+vendor/etc/audio_diag.cfg
+vendor/etc/default_volume_tables.xml
+vendor/etc/kvh2xml.xml
+vendor/etc/misound_asc_model.tflite
 vendor/lib64/libAlacSwDec.so
 vendor/lib64/libApeSwDec.so
 vendor/lib64/libEvrcSwCodec.so
@@ -135,7 +135,6 @@ vendor/lib64/libsoc_helper.so
 vendor/lib64/vendor.qti.hardware.bttpi-V2-ndk.so
 
 # Bluetooth (A2DP)
-vendor/lib64/btaudio_offload_if.so
 vendor/lib64/hw/android.hardware.bluetooth.audio-impl-qti.so
 vendor/lib64/hw/audio.bluetooth_qti.default.so
 vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so
@@ -143,6 +142,7 @@ vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so
 vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so
 vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so
 vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so
+vendor/lib64/btaudio_offload_if.so
 vendor/lib64/libbluetooth_audio_session_aidl_qti.so
 vendor/lib64/libbluetooth_audio_session_qti.so
 vendor/lib64/libbluetooth_audio_session_qti_2_1.so
@@ -164,8 +164,6 @@ vendor/app/CACertService/CACertService.apk
 vendor/app/CneApp/CneApp.apk;REQUIRED=CneApp.libvndfwk_detect_jni.qti_vendor_symlink
 vendor/app/IWlanService/IWlanService.apk
 vendor/bin/cnd
-vendor/etc/cne/mwqem.conf
-vendor/etc/cne/profileMwqem.xml
 vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml
 vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml
 vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml
@@ -195,6 +193,8 @@ vendor/etc/cne/wqeclient/VZW/VZW_profile4.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile5.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile6.xml
 vendor/etc/cne/wqeclient/VZW/VZW_profile7.xml
+vendor/etc/cne/mwqem.conf
+vendor/etc/cne/profileMwqem.xml
 vendor/etc/default-permissions/com.qualcomm.qti.cne.xml
 vendor/etc/init/cnd.rc
 vendor/lib64/libcne.so
@@ -533,9 +533,9 @@ vendor/etc/vintf/manifest/fod.xml
 # GNSS
 odm/bin/hw/android.hardware.gnss-aidl-service-qti
 odm/etc/init/android.hardware.gnss-aidl-service-qti.rc
-odm/etc/izat_device.conf
 odm/etc/vintf/manifest/android.hardware.gnss-aidl-service-qti.xml
 odm/etc/vintf/manifest/vendor.qti.gnss-service.xml
+odm/etc/izat_device.conf
 odm/lib64/vendor.qti.gnss-V3-ndk.so
 odm/lib64/vendor.qti.gnss-V4-ndk.so
 odm/lib64/vendor.qti.gnss-service.so
@@ -548,16 +548,10 @@ vendor/bin/mlid
 vendor/bin/slim_daemon;DISABLE_CHECKELF
 vendor/bin/xtra-daemon
 vendor/bin/xtwifi-client
-vendor/etc/apdr.conf
-vendor/etc/batching.conf
-vendor/etc/gps.conf
 vendor/etc/init/init.vendor.ins.rc
 vendor/etc/init/loc-launcher.rc
 vendor/etc/init/vendor.qsap.location.rc
 vendor/etc/init/vendor.qsap.qapeservice.rc
-vendor/etc/lowi.conf
-vendor/etc/sap.conf
-vendor/etc/sec_config
 vendor/etc/seccomp_policy/gnss@2.0-base.policy
 vendor/etc/seccomp_policy/gnss@2.0-edgnss-daemon.policy
 vendor/etc/seccomp_policy/gnss@2.0-qsap-location.policy
@@ -565,6 +559,12 @@ vendor/etc/seccomp_policy/gnss@2.0-xtra-daemon.policy
 vendor/etc/seccomp_policy/gnss@2.0-xtwifi-client.policy
 vendor/etc/seccomp_policy/qsap_qapeservice.policy
 vendor/etc/seccomp_policy/qsap_voiceui.policy
+vendor/etc/apdr.conf
+vendor/etc/batching.conf
+vendor/etc/gps.conf
+vendor/etc/lowi.conf
+vendor/etc/sap.conf
+vendor/etc/sec_config
 vendor/etc/xtwifi.conf
 vendor/lib64/hw/android.hardware.gnss-aidl-impl-qti.so
 vendor/lib64/libMiVDR.so
@@ -912,6 +912,7 @@ vendor/lib64/vendor.qti.hardware.qconfig@1.0.so
 
 # Media configs
 odm/etc/media_profiles_kalama.xml
+vendor/etc/media_kalama/video_system_specs.json
 vendor/etc/media_codecs.xml
 vendor/etc/media_codecs_c2_audio.xml
 vendor/etc/media_codecs_dolby_audio.xml
@@ -920,7 +921,6 @@ vendor/etc/media_codecs_kalama_vendor.xml
 vendor/etc/media_codecs_kalama_vendor_without_dvenc.xml
 vendor/etc/media_codecs_performance_kalama.xml
 vendor/etc/media_codecs_performance_kalama_vendor.xml
-vendor/etc/media_kalama/video_system_specs.json
 vendor/etc/media_profiles.xml
 vendor/etc/media_profiles_V1_0.xml
 
@@ -939,10 +939,10 @@ odm/bin/hw/android.hardware.nfc@1.2-service-st
 odm/bin/hw/vendor.nxp.hardware.nfc@2.0-service
 odm/etc/init/android.hardware.nfc@1.2-service-st.rc
 odm/etc/init/vendor.nxp.hardware.nfc@2.0-service.rc
+odm/etc/permissions/android.hardware.nfc.beam.xml
 odm/etc/libnfc-nci.conf
 odm/etc/libnfc-nxp.conf
 odm/etc/libnfc-nxp_RF.conf
-odm/etc/permissions/android.hardware.nfc.beam.xml
 odm/lib64/libstnfc-auth.so
 odm/lib64/nfc_nci.nqx.default.hw.so
 odm/lib64/nfc_nci.st21nfc.st.so
@@ -996,6 +996,9 @@ vendor/bin/poweropt-service
 vendor/etc/init/poweropt-service.rc
 vendor/etc/init/vendor.qti.hardware.iop@2.0-service.rc
 vendor/etc/init/vendor.qti.hardware.perf-hal-service.rc
+vendor/etc/lm/prekill/prekill_2GB.data
+vendor/etc/lm/prekill/prekill_4GB.data
+vendor/etc/lm/prekill/prekill_6GB.data
 vendor/etc/lm/AdaptLaunchFeature.xml
 vendor/etc/lm/AppClassifierFeature.xml
 vendor/etc/lm/LightningLaunchesFeature.xml
@@ -1006,9 +1009,6 @@ vendor/etc/lm/QAPE.xml
 vendor/etc/lm/QGPE.xml
 vendor/etc/lm/QGPEActionMap.xml
 vendor/etc/lm/SilkyScrollsFeature.xml
-vendor/etc/lm/prekill/prekill_2GB.data
-vendor/etc/lm/prekill/prekill_4GB.data
-vendor/etc/lm/prekill/prekill_6GB.data
 vendor/etc/lm/sPLHFeature.xml
 vendor/etc/perf/avcsysnodesconfigs.xml
 vendor/etc/perf/commonresourceconfigs.xml
@@ -1101,8 +1101,8 @@ vendor/etc/init/init.qti.qcv.rc
 vendor/bin/vendor.qti.qegahal-service
 vendor/etc/init/vendor.qti.qegahal-service.rc
 vendor/etc/vintf/manifest/vendor.qti.qegahal-service.xml
-vendor/lib64/vendor.qti.qegahal-impl.so
 vendor/lib64/vendor.qti.qegahal-V1-ndk_platform.so
+vendor/lib64/vendor.qti.qegahal-impl.so
 
 # QESDK
 vendor/bin/qesdk-manager
@@ -1157,9 +1157,9 @@ vendor/lib64/vendor.xiaomi.modem.qms@1.0.so
 # QSEECOM
 vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service
 vendor/bin/qseecomd
-vendor/etc/gpfspath_oem_config.xml
 vendor/etc/init/qseecomd.rc
 vendor/etc/init/vendor.qti.hardware.qseecom@1.0-service.rc
+vendor/etc/gpfspath_oem_config.xml
 vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so
 vendor/lib64/libGPreqcancel.so
 vendor/lib64/libGPreqcancel_svc.so
@@ -1235,7 +1235,6 @@ vendor/etc/qcril_database/upgrade/other/8_version_update_ecc_table.sql;FILEGROUP
 vendor/etc/qcril_database/upgrade/other/9_version_update_ecc_table.sql;FILEGROUP=proprietary_rildb_other_sql_files
 vendor/etc/seccomp_policy/modemManager.policy
 vendor/etc/seccomp_policy/qcrilnr@2.0.policy
-vendor/etc/telephony_packages.xml
 vendor/etc/vintf/manifest/android.hardware.radio.config.xml
 vendor/etc/vintf/manifest/android.hardware.radio.data.xml
 vendor/etc/vintf/manifest/android.hardware.radio.messaging.xml
@@ -1249,6 +1248,7 @@ vendor/etc/vintf/manifest/qms-saidl.xml
 vendor/etc/vintf/manifest/qtiradio-saidl.xml
 vendor/etc/vintf/manifest/vendor.qti.hardware.radio.am.xml
 vendor/etc/vintf/manifest/vendor.qti.hardware.radio.qtiradioconfig.xml
+vendor/etc/telephony_packages.xml
 vendor/lib64/deviceInfoServiceModuleNr.so
 vendor/lib64/lib-qhcpservice.so
 vendor/lib64/libQtiRilLoadable.so
@@ -1448,10 +1448,10 @@ vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 
 # Trusted User Interface
 vendor/app/TrustedUIService/TrustedUIService.apk
-vendor/bin/TrustedUISampleTAClient
-vendor/bin/TrustedUISampleTest
 vendor/bin/hw/vendor.qti.hardware.trustedui@1.0-service-qti
 vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti
+vendor/bin/TrustedUISampleTAClient
+vendor/bin/TrustedUISampleTest
 vendor/bin/trusteduilistener
 vendor/etc/init/trusteduilistener.rc
 vendor/etc/init/vendor.qti.hardware.trustedui@1.0-service-qti.rc
@@ -1511,12 +1511,12 @@ vendor/lib64/libvideoutils.so
 # WiFi
 vendor/bin/cnss-daemon
 vendor/etc/init/init.vendor.wlan.rc
-vendor/etc/wifi/icm.conf
 vendor/etc/wifi/kiwi/WCNSS_qcom_cfg.ini
 vendor/etc/wifi/kiwi_v2/WCNSS_qcom_cfg.ini
+vendor/etc/wifi/qca6490/WCNSS_qcom_cfg.ini
+vendor/etc/wifi/icm.conf
 vendor/etc/wifi/p2p_supplicant_overlay.conf
 vendor/etc/wifi/passpointProfile.conf
-vendor/etc/wifi/qca6490/WCNSS_qcom_cfg.ini
 vendor/etc/wifi/vendor_cmd.xml
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 
