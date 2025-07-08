@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3293a6a0_12ec8aeb",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-07-08T17:32:11Z",
+      "side": 1,
+      "message": "order with alphabetically\n\neg: fuxi nuwa socrates",
+      "range": {
+        "startLine": 9,
+        "startChar": 16,
+        "endLine": 9,
+        "endChar": 34
+      },
+      "revId": "8b3cba49ad934f9557698baabc8238d644110b0b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
