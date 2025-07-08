@@ -22,6 +22,30 @@
       },
       "revId": "8b3cba49ad934f9557698baabc8238d644110b0b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "45dcc32e_c8040045",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-07-08T20:54:58Z",
+      "side": 1,
+      "message": "Guys... just delete this makefile. Is this doing anything at all, is there any other Android.mk in a subdir?",
+      "parentUuid": "3293a6a0_12ec8aeb",
+      "range": {
+        "startLine": 9,
+        "startChar": 16,
+        "endLine": 9,
+        "endChar": 34
+      },
+      "revId": "8b3cba49ad934f9557698baabc8238d644110b0b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
