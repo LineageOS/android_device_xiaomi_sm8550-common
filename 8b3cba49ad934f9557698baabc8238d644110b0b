@@ -63,6 +63,30 @@
       },
       "revId": "8b3cba49ad934f9557698baabc8238d644110b0b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0aab2a56_2ec82172",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 34560
+      },
+      "writtenOn": "2025-07-09T01:27:34Z",
+      "side": 1,
+      "message": "Got that, we will remove that.",
+      "parentUuid": "45dcc32e_c8040045",
+      "range": {
+        "startLine": 9,
+        "startChar": 16,
+        "endLine": 9,
+        "endChar": 34
+      },
+      "revId": "8b3cba49ad934f9557698baabc8238d644110b0b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
