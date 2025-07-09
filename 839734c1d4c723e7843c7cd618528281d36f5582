@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b5b6ef7_19ed17d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2025-07-09T19:13:58Z",
+      "side": 1,
+      "message": "I understand that this is for de-commonizing the property. If so, all trees that inherit Xiaomi SM8550 must set the flag themselves. Socrates doesn\u0027t seem to do this currently.\n\nI would:\n- Rename this change to \"Decommonize screen density config\"\n- Create a change for socrates that sets this config with this value in the device\u0027s BoardConfig",
+      "revId": "839734c1d4c723e7843c7cd618528281d36f5582",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
