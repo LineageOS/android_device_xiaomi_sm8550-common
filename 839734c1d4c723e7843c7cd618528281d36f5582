@@ -34,6 +34,24 @@
       "parentUuid": "6b5b6ef7_19ed17d2",
       "revId": "839734c1d4c723e7843c7cd618528281d36f5582",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2b21778_ce20e6e2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34560
+      },
+      "writtenOn": "2025-07-10T02:19:21Z",
+      "side": 1,
+      "message": "Done.Rename change to \"Decommonize screen density config\"",
+      "parentUuid": "3af675c0_303ac375",
+      "revId": "839734c1d4c723e7843c7cd618528281d36f5582",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
