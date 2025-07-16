@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b355400_7eb9df6c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-07-16T10:06:45Z",
+      "side": 1,
+      "message": "i don\u0027t have wechat to test on fuxi side, so it\u0027s up to minus",
+      "revId": "a193b1495efdc1f71ec64fae771cdef1f34e63a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
