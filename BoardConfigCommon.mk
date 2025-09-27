@@ -26,10 +26,6 @@ AB_OTA_PARTITIONS := \
 # API level
 BOARD_SHIPPING_API_LEVEL := 33
 
-SOONG_CONFIG_NAMESPACES += ufsbsg
-SOONG_CONFIG_ufsbsg += ufsframework
-SOONG_CONFIG_ufsbsg_ufsframework := bsg
-
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a-dotprod
