@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "277cf584_9841f565",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-10-05T12:39:45Z",
+      "side": 1,
+      "message": "i think i agreed on bruno for this one, merged this on 22.2 first then 23.0",
+      "revId": "3a3dcf71001ea19aaef9d0a5e7e6454dfacd0547",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
