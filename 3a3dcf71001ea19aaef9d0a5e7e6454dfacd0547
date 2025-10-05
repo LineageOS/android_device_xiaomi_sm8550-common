@@ -33,6 +33,24 @@
       "message": "@banstellazz@gmail.com Can you pick this commit to the lineage-22.2 branch?",
       "revId": "3a3dcf71001ea19aaef9d0a5e7e6454dfacd0547",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a255f74_917b2461",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T13:11:23Z",
+      "side": 1,
+      "message": "Not pick, move to 22.2 and fast-forward to avoid diverging branches.",
+      "parentUuid": "c03698f0_8e9fc507",
+      "revId": "3a3dcf71001ea19aaef9d0a5e7e6454dfacd0547",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
