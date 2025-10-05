@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d72146c9_2b7f2416",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T12:16:09Z",
+      "side": 1,
+      "message": "Why aren\u0027t you merging this first to 22.2 and then fast-forward 23.0?",
+      "revId": "81ddfe49e74982c6ef21d079a3814d6096f518d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
