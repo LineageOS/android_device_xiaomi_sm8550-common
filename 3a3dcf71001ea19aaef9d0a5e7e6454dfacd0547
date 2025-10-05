@@ -87,6 +87,24 @@
       "parentUuid": "dd80ad23_48b84966",
       "revId": "3a3dcf71001ea19aaef9d0a5e7e6454dfacd0547",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb953bba_a5a6af45",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T14:15:39Z",
+      "side": 1,
+      "message": "No, nuwa will just have to pick it to 22.2.",
+      "parentUuid": "0d10faa1_12254a23",
+      "revId": "3a3dcf71001ea19aaef9d0a5e7e6454dfacd0547",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
