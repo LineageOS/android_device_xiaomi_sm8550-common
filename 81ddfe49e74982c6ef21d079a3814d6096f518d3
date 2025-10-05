@@ -34,6 +34,24 @@
       "parentUuid": "d72146c9_2b7f2416",
       "revId": "81ddfe49e74982c6ef21d079a3814d6096f518d3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b172f5aa_39f23fe8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-05T13:10:09Z",
+      "side": 1,
+      "message": "Yea, but if it works on 23.0 it works on 22.2 as well. 22.2 is still the active branch.",
+      "parentUuid": "6349dd33_8242a2d9",
+      "revId": "81ddfe49e74982c6ef21d079a3814d6096f518d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
