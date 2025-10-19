@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdd09a65_b8ea0101",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35103
+      },
+      "writtenOn": "2025-10-19T16:40:05Z",
+      "side": 1,
+      "message": "if you wanna change your WLAN config, you should make sure it won\u0027t affect other devices which share the common tree",
+      "revId": "c4bab147060fad231d581014ed77188c7d177483",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
