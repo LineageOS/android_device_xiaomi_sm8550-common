@@ -16,6 +16,24 @@
       "message": "Apart from the mlipay service, even these are required?",
       "revId": "52e70f5219f5d0f2700ae546c8e5e1df435ca1d0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7c663a3f_42231b67",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-10-22T14:30:42Z",
+      "side": 1,
+      "message": "prebuilt IFAA is depended on mtd as source built one didn\u0027t works\n\nmfidoca and tidaservice is for auth. which in theory, should safe to drop, but until i got confirm by chinese users, maybe not for now",
+      "parentUuid": "33223ec8_7d54bfc6",
+      "revId": "52e70f5219f5d0f2700ae546c8e5e1df435ca1d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
