@@ -1088,19 +1088,6 @@ vendor/etc/vintf/manifest/vendor.qti.qegahal-service.xml
 vendor/lib64/vendor.qti.qegahal-impl.so
 vendor/lib64/vendor.qti.qegahal-V1-ndk_platform.so
 
-# QESDK
-vendor/bin/qesdk-manager
-vendor/etc/init/qesdk-manager.rc
-vendor/etc/seccomp_policy/qesdk.policy
-vendor/lib64/libqesdk2_0.so
-vendor/lib64/libqesdk_manager.so
-vendor/lib64/vendor.qti.qesdhal@1.0.so
-vendor/lib64/vendor.qti.qesdhal@1.1.so
-vendor/lib64/vendor.qti.qesdhal@1.2.so
-vendor/lib64/vendor.qti.qesdhal@1.3-impl.so
-vendor/lib64/vendor.qti.qesdhal@1.3.so
-vendor/lib64/vendor.qti.qesdsys-V3-ndk.so
-
 # QMI
 system/etc/sysconfig/qti_whitelist.xml
 vendor/bin/init.qti.write.sh
