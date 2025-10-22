@@ -1457,4 +1457,5 @@ vendor/lib64/liboemcrypto.so
 vendor/lib64/libwvaidl.so
 
 # Xiaomi
+vendor/bin/nv_mac
 vendor/lib64/libmisight.so
