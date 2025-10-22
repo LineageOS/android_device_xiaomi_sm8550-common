@@ -16,6 +16,23 @@
       "message": "Why?",
       "revId": "230c3b62deee284983a6ff49963c3aa2f99910dc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c19d102c_6f556836",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-22T16:30:07Z",
+      "side": 1,
+      "message": "Matches CLO configuration.",
+      "revId": "230c3b62deee284983a6ff49963c3aa2f99910dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
