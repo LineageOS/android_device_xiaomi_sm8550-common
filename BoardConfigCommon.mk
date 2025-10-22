@@ -23,9 +23,6 @@ AB_OTA_PARTITIONS := \
     vendor_boot \
     vendor_dlkm
 
-# API level
-BOARD_SHIPPING_API_LEVEL := 33
-
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a-dotprod
