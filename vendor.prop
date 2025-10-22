@@ -163,13 +163,6 @@ persist.vendor.qcom.bluetooth.scram.enabled=false
 persist.vendor.qcom.bluetooth.aac_vbr_ctl.enabled=true
 persist.vendor.qcom.bluetooth.aptxadaptiver2_1_support=true
 persist.sys.fflag.override.settings_bluetooth_hearing_aid=true
-bluetooth.profile.bap.broadcast.assist.enabled=false
-bluetooth.profile.bap.broadcast.source.enabled=false
-bluetooth.profile.bap.unicast.client.enabled=false
-bluetooth.profile.vcp.controller.enabled=false
-bluetooth.profile.csip.set_coordinator.enabled=false
-bluetooth.profile.mcp.server.enabled=true
-bluetooth.profile.ccp.server.enabled=true
 
 # Camera
 camera.disable_zsl_mode=true
