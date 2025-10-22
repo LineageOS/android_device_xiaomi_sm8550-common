@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9be1616_09d6b732",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-10-22T14:28:42Z",
+      "side": 1,
+      "message": "eID (electronic IDentity) is needed for cn users, thus we will implement it later on",
+      "revId": "c78cb74c8140bba389312bb145344a68ca8e4914",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
