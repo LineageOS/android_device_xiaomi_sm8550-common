@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33223ec8_7d54bfc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-22T12:31:08Z",
+      "side": 1,
+      "message": "Apart from the mlipay service, even these are required?",
+      "revId": "52e70f5219f5d0f2700ae546c8e5e1df435ca1d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
