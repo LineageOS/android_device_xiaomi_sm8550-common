@@ -1,4 +1,5 @@
 # Audio
+af.fast_track_multiplier=1
 vendor.audio_hal.period_size=192
 vendor.audio.ull_record_period_multiplier=2
 persist.vendor.audio.ambisonic.capture=false
@@ -168,7 +169,6 @@ persist.sys.fflag.override.settings_bluetooth_hearing_aid=true
 camera.disable_zsl_mode=true
 persist.sys.miui.camera.version=3.0
 ro.hardware.camera=xiaomi
-af.fast_track_multiplier=1
 ro.camera.enableCamera1MaxZsl=1
 vendor.camera.aux.packagelist=com.android.camera,org.lineageos.aperture,org.lineageos.aperture.dev
 
