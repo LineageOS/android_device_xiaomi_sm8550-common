@@ -16,6 +16,23 @@
       "message": "eID (electronic IDentity) is needed for cn users, thus we will implement it later on",
       "revId": "c78cb74c8140bba389312bb145344a68ca8e4914",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "084d24bf_9ab7ef50",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2025-10-23T13:51:25Z",
+      "side": 1,
+      "message": "cn users need it",
+      "revId": "c78cb74c8140bba389312bb145344a68ca8e4914",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
