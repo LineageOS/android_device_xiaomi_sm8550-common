@@ -16,6 +16,24 @@
       "message": "Pending for modemManager dependency remove.\nBtw don\u0027t give verified +1 causally when you or our team haven\u0027t tested it.",
       "revId": "55f62705ebc44e97443af77456a446272e4d35ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7dd11d1d_49311853",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-23T06:41:53Z",
+      "side": 1,
+      "message": "Sorry, my bad. I\u0027ll avoid doing so from next time.",
+      "parentUuid": "4ad15e28_77e34d28",
+      "revId": "55f62705ebc44e97443af77456a446272e4d35ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
