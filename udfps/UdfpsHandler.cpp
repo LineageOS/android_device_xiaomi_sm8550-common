@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2022 The LineageOS Project
+ * Copyright (C) 2022-2025 The LineageOS Project
  *
  * SPDX-License-Identifier: Apache-2.0
  */
@@ -21,7 +21,6 @@
 #define PARAM_FOD_PRESSED 1
 #define PARAM_FOD_RELEASED 0
 
-#define FOD_STATUS_PATH "/sys/devices/platform/goodix_ts.0/fod_enable"
 #define FOD_STATUS_OFF 0
 #define FOD_STATUS_ON 1
 
@@ -93,13 +92,7 @@ class XiaomiSM8550UdfpsHander : public UdfpsHandler {
     fingerprint_device_t* mDevice;
 
     void setFodStatus(int value) {
-        if (fileExists(FOD_STATUS_PATH)) {
-            set(FOD_STATUS_PATH, value);
-        } else if (fileExists(FOD_PRESS_STATUS_PATH)) {
-            set(FOD_PRESS_STATUS_PATH, value);
-        } else {
-            LOG(WARNING) << "Neither " << FOD_STATUS_PATH << " or " << FOD_PRESS_STATUS_PATH << " exists!";
-        }
+        set(FOD_PRESS_STATUS_PATH, value);
     }
 
     void setFingerDown(bool pressed) {
