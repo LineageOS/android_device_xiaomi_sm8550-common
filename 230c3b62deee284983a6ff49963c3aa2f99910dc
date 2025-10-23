@@ -51,6 +51,23 @@
       "parentUuid": "5f70fafb_22be2b27",
       "revId": "230c3b62deee284983a6ff49963c3aa2f99910dc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c4355aa_3623fa17",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-10-23T05:57:22Z",
+      "side": 1,
+      "message": "kryo300 is not a valid cpu variant in AOSP, not sure how you verified this change",
+      "revId": "230c3b62deee284983a6ff49963c3aa2f99910dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
