@@ -16,6 +16,24 @@
       "message": "This is fine, no sm8550 device has external storage.",
       "revId": "ca3e901e816ce6df624f499a1e7d8bb69af7847e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59097f95_b011d76c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-23T15:19:34Z",
+      "side": 1,
+      "message": "A lot of other properties from odm and vendor need to be cleaned up. but i\u0027m not exactly sure about those. so, if possible please take a look into it.",
+      "parentUuid": "9052ee20_98defe29",
+      "revId": "ca3e901e816ce6df624f499a1e7d8bb69af7847e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
