@@ -69,6 +69,24 @@
       "message": "waiting for modemmanager dependency removed",
       "revId": "55f62705ebc44e97443af77456a446272e4d35ff",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eeefca45_7e016d54",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-23T15:24:31Z",
+      "side": 1,
+      "message": "Done.",
+      "parentUuid": "7b747c09_7cbd4289",
+      "revId": "55f62705ebc44e97443af77456a446272e4d35ff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
