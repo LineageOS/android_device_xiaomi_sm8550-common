@@ -34,6 +34,24 @@
       "parentUuid": "4c241cec_2e9f98f3",
       "revId": "a5c0c97ad14878aae3f32349a564677227192671",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b32cc0c_c026847f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-10-24T13:54:02Z",
+      "side": 1,
+      "message": "i\u0027ll leave it to you and lunark then, i don\u0027t have HD message show up on my carrier",
+      "parentUuid": "9a242b9f_bb4bfca8",
+      "revId": "a5c0c97ad14878aae3f32349a564677227192671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
