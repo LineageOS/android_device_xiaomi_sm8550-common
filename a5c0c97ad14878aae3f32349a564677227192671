@@ -16,6 +16,24 @@
       "message": "none of my carrier and all users on fuxi so far are showing HD message, someone else need to be tested",
       "revId": "a5c0c97ad14878aae3f32349a564677227192671",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a242b9f_bb4bfca8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34560
+      },
+      "writtenOn": "2025-10-24T09:36:35Z",
+      "side": 1,
+      "message": "can be seen in cn carrier",
+      "parentUuid": "4c241cec_2e9f98f3",
+      "revId": "a5c0c97ad14878aae3f32349a564677227192671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
