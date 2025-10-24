@@ -52,6 +52,24 @@
       "parentUuid": "9a242b9f_bb4bfca8",
       "revId": "a5c0c97ad14878aae3f32349a564677227192671",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c76798ee_128d4f83",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34560
+      },
+      "writtenOn": "2025-10-24T13:56:06Z",
+      "side": 1,
+      "message": "Why remove it? I think we should show users if they support HD calling.",
+      "parentUuid": "2b32cc0c_c026847f",
+      "revId": "a5c0c97ad14878aae3f32349a564677227192671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
