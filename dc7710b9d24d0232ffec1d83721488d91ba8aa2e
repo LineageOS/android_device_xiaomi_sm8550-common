@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4009a085_89983ab7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-10-24T13:33:57Z",
+      "side": 1,
+      "message": "Please let me know if the Copyright part has to be changed",
+      "revId": "dc7710b9d24d0232ffec1d83721488d91ba8aa2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
