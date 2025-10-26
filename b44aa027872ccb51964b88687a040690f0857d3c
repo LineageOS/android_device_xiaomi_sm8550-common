@@ -52,6 +52,24 @@
       "parentUuid": "ae225472_51c7de38",
       "revId": "b44aa027872ccb51964b88687a040690f0857d3c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c441ae8_4159ffdc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-26T13:38:58Z",
+      "side": 1,
+      "message": "It should also work fine with this commit. This tree is probably the only one not doing it.",
+      "parentUuid": "dcd370cd_37958bba",
+      "revId": "b44aa027872ccb51964b88687a040690f0857d3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
