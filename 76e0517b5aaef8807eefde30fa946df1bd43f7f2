@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c018592b_9542fb4e",
+        "filename": "vendor.prop",
+        "patchSetId": 5
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2025-10-26T06:53:32Z",
+      "side": 0,
+      "message": "Why do we need to disable fuse passthrough",
+      "revId": "76e0517b5aaef8807eefde30fa946df1bd43f7f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
