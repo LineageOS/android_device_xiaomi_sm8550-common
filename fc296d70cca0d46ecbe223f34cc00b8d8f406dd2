@@ -52,6 +52,23 @@
       "parentUuid": "30a02088_33f4e139",
       "revId": "fc296d70cca0d46ecbe223f34cc00b8d8f406dd2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9dfe6d98_4ce2e1ed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2025-11-10T10:40:15Z",
+      "side": 1,
+      "message": "In the future, there may be new ximi sm8550 devices added, and it is not a good decision to commonze it now",
+      "revId": "fc296d70cca0d46ecbe223f34cc00b8d8f406dd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
