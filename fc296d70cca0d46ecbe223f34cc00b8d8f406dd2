@@ -69,6 +69,23 @@
       "message": "In the future, there may be new ximi sm8550 devices added, and it is not a good decision to commonze it now",
       "revId": "fc296d70cca0d46ecbe223f34cc00b8d8f406dd2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8994d94_7b82ff6b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2025-11-12T13:25:51Z",
+      "side": 1,
+      "message": "sensors.xiaomi.v2 currently doesn\u0027t works on sheng, so commonize this isn\u0027t a thing until it get fixed",
+      "revId": "fc296d70cca0d46ecbe223f34cc00b8d8f406dd2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
