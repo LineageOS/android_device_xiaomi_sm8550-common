@@ -273,9 +273,6 @@ graphics.gpu.profiler.support=true
 debug.sf.predict_hwc_composition_strategy=0
 debug.sf.treat_170m_as_sRGB=1
 
-# Keyguard
-keyguard.no_require_sim=true
-
 # Media
 debug.stagefright.c2inputsurface=-1
 debug.c2.use_dmabufheaps=1
