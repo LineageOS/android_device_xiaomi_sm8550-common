@@ -70,6 +70,24 @@
       "parentUuid": "2b32cc0c_c026847f",
       "revId": "a5c0c97ad14878aae3f32349a564677227192671",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d64ef833_b5ce7d26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-11-30T15:23:08Z",
+      "side": 1,
+      "message": "How does it look like?",
+      "parentUuid": "c76798ee_128d4f83",
+      "revId": "a5c0c97ad14878aae3f32349a564677227192671",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
