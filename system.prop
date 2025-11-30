@@ -1,7 +1,5 @@
-# Dalvik
-dalvik.vm.heapsize=36m
+# Dex2oat
 dalvik.vm.dex2oat64.enabled=true
-dev.pm.dyn_samplingrate=1
 
 # HWUI
 ro.hwui.texture_cache_size=72
