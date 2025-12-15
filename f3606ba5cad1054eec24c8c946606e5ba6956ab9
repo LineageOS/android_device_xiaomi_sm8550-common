@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a2e7f9dd_44a130a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36111
+      },
+      "writtenOn": "2025-12-15T02:35:39Z",
+      "side": 1,
+      "message": "Why not just squash it with the previous commit?",
+      "revId": "f3606ba5cad1054eec24c8c946606e5ba6956ab9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
