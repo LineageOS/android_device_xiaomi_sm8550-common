@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "93cb0ebe_cb30b309",
+        "filename": "common.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 404,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2025-12-30T17:19:39Z",
+      "side": 1,
+      "message": "See I16040a79014329d9b19e01b7facad68043e1b8ff\nThis should also be updated to `soong_config_set_bool`",
+      "range": {
+        "startLine": 404,
+        "startChar": 0,
+        "endLine": 404,
+        "endChar": 60
+      },
+      "revId": "0d11a3578ea488703fed30680aac76ab1a88edb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
