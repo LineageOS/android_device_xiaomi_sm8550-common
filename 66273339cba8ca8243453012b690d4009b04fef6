@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27233291_391fb0b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-03T22:46:33Z",
+      "side": 1,
+      "message": "This and the follow-up change is again something that you can and should commit to lineage-23.0 before diverging. I must remind you all that lineage-23.0 is still the active branch.",
+      "revId": "66273339cba8ca8243453012b690d4009b04fef6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
