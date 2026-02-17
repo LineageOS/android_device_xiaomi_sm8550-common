@@ -50,6 +50,24 @@
       "message": "reason?",
       "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e8321cd_b214584e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-02-17T17:29:44Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_build/blob/353bb6908476683385f136b6ba0ba1bc4f64e0b8/target/product/base_vendor.mk#L97-L102",
+      "parentUuid": "ae63f544_f46ce206",
+      "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
