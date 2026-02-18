@@ -68,6 +68,23 @@
       "parentUuid": "ae63f544_f46ce206",
       "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f60040aa_cf0db88e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-02-18T03:24:43Z",
+      "side": 1,
+      "message": "Since it\u0027s built by default in 33, wouldn\u0027t it be bad to use `Drop` as the commit title?",
+      "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
