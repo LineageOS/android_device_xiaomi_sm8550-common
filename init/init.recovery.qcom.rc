@@ -47,7 +47,7 @@ on fs
     wait /dev/block/platform/soc/${ro.boot.bootdevice}
     symlink /dev/block/platform/soc/${ro.boot.bootdevice} /dev/block/bootdevice
     write /proc/sys/kernel/firmware_config/force_sysfs_fallback 1
-    mount_all /vendor/etc/charger_fstab.qti --early
+    mount_all /vendor/etc/charger_fw_fstab.qti --early
     mount none /vendor/firmware_mnt/image /vendor/firmware bind rec
     wait /sys/kernel/boot_adsp/boot
     write /sys/kernel/boot_adsp/boot 1
