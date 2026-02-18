@@ -85,6 +85,24 @@
       "message": "Since it\u0027s built by default in 33, wouldn\u0027t it be bad to use `Drop` as the commit title?",
       "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98f6c5fe_6d886814",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-02-18T09:11:04Z",
+      "side": 1,
+      "message": "Sorry for the inconvenience. Uploaded a new change.\nhttps://review.lineageos.org/c/LineageOS/android_device_xiaomi_sm8550-common/+/474619",
+      "parentUuid": "f60040aa_cf0db88e",
+      "revId": "d995fd0a335d99dd4efa47dad6343ee117207b36",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
