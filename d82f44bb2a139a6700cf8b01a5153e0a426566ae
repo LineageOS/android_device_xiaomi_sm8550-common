@@ -16,6 +16,47 @@
       "message": "What about sepolicy?",
       "revId": "d82f44bb2a139a6700cf8b01a5153e0a426566ae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb64fab0_63599301",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-02-26T16:11:51Z",
+      "side": 1,
+      "message": "And props",
+      "parentUuid": "0f759699_6d0567d8",
+      "revId": "d82f44bb2a139a6700cf8b01a5153e0a426566ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8067ff86_5468e2dd",
+        "filename": "configs/vintf/framework_matrix.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-02-26T16:11:51Z",
+      "side": 1,
+      "message": "this also",
+      "range": {
+        "startLine": 52,
+        "startChar": 12,
+        "endLine": 52,
+        "endChar": 38
+      },
+      "revId": "d82f44bb2a139a6700cf8b01a5153e0a426566ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
