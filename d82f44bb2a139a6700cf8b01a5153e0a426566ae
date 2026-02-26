@@ -81,6 +81,29 @@
       },
       "revId": "d82f44bb2a139a6700cf8b01a5153e0a426566ae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "15562a54_e3ba0b9b",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-02-26T17:56:13Z",
+      "side": 1,
+      "message": "```suggestion\n    (\n       \u0027vendor/etc/media_codecs_kalama.xml\u0027,\n       \u0027vendor/etc/media_codecs_kalama_vendor_without_dvenc.xml\u0027,\n       \u0027vendor/etc/media_codecs_kalama_vendor.xml\u0027,\n    ): blob_fixup()\n        .regex_replace(r\u0027\\s*\u003cMediaCodec[^\u003e]+name\u003d\"c2\\.dolby\\.[^\"]*\"[\\s\\S]*?\u003c\\/MediaCodec\u003e\u0027, \u0027\u0027)\n        .regex_replace(\u0027.+media_codecs_(dolby_audio|google_audio|google_c2|google_telephony|vendor_audio).+\\n\u0027, \u0027\u0027),\n```",
+      "range": {
+        "startLine": 76,
+        "startChar": 4,
+        "endLine": 89,
+        "endChar": 116
+      },
+      "revId": "d82f44bb2a139a6700cf8b01a5153e0a426566ae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
