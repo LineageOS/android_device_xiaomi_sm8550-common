@@ -1,5 +1,29 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5f7aa159_e90cc4a7",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 810,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-03-06T22:25:15Z",
+      "side": 1,
+      "message": "Is this used?",
+      "range": {
+        "startLine": 810,
+        "startChar": 0,
+        "endLine": 810,
+        "endChar": 55
+      },
+      "revId": "bb5a26ab3fd8fb69a114a90a0b6614185faa53ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
