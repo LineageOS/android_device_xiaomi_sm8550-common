@@ -22,6 +22,30 @@
       },
       "revId": "b36414f1857b1407b456b8578370690387081349",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "77171b45_f8052cb4",
+        "filename": "configs/vintf/framework_matrix.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-03-11T08:01:46Z",
+      "side": 0,
+      "message": "sorry again",
+      "parentUuid": "c4063cc5_4503ec79",
+      "range": {
+        "startLine": 98,
+        "startChar": 0,
+        "endLine": 105,
+        "endChar": 10
+      },
+      "revId": "b36414f1857b1407b456b8578370690387081349",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
