@@ -22,6 +22,30 @@
       },
       "revId": "8881080f62dc4d1843f59d811684da3d6d5d895c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9762797_1e2b9ee0",
+        "filename": "init/init.recovery.qcom.rc",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-03-11T07:45:54Z",
+      "side": 1,
+      "message": "sorry, I thought it was defined only in init.target.rc which was already correct.",
+      "parentUuid": "5487fbd6_856b6dae",
+      "range": {
+        "startLine": 50,
+        "startChar": 26,
+        "endLine": 50,
+        "endChar": 43
+      },
+      "revId": "8881080f62dc4d1843f59d811684da3d6d5d895c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
