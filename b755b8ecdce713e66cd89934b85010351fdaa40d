@@ -34,6 +34,24 @@
       "parentUuid": "706a9ef0_2343b38f",
       "revId": "b755b8ecdce713e66cd89934b85010351fdaa40d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "439bb4df_0f810788",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-03-12T17:34:44Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_device_sony_sm8550-common/commit/db478bc9244ac434069d32331a5dd81a5f34d9e6",
+      "parentUuid": "d3b5d40e_a2c8a73a",
+      "revId": "b755b8ecdce713e66cd89934b85010351fdaa40d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
