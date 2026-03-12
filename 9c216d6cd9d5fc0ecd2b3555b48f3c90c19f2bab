@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1674b49_b25df54d",
+        "filename": "configs/vintf/framework_matrix.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-03-12T14:13:03Z",
+      "side": 0,
+      "message": "```\nERROR: files are incompatible: The following instances are in the device manifest but not specified in framework compatibility matrix:\n    vendor.qti.sla.service@1.0::ISlaService/default\n```",
+      "range": {
+        "startLine": 67,
+        "startChar": 0,
+        "endLine": 74,
+        "endChar": 10
+      },
+      "revId": "9c216d6cd9d5fc0ecd2b3555b48f3c90c19f2bab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
