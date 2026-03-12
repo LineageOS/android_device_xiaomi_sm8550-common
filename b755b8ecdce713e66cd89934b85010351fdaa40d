@@ -16,6 +16,24 @@
       "message": "https://review.lineageos.org/c/LineageOS/android_device_asus_sake/+/326471",
       "revId": "b755b8ecdce713e66cd89934b85010351fdaa40d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d3b5d40e_a2c8a73a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-03-12T17:29:14Z",
+      "side": 1,
+      "message": "both commits were picked by many people",
+      "parentUuid": "706a9ef0_2343b38f",
+      "revId": "b755b8ecdce713e66cd89934b85010351fdaa40d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
