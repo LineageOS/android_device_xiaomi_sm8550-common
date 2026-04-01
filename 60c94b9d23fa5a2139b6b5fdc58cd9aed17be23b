@@ -16,6 +16,23 @@
       "message": "on hold until OS3 is release for all 8550 devices",
       "revId": "60c94b9d23fa5a2139b6b5fdc58cd9aed17be23b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ab2535b6_2e9153e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T17:18:58Z",
+      "side": 1,
+      "message": "just extract this package from the fuxi blobs as it is. no need to patch anything",
+      "revId": "60c94b9d23fa5a2139b6b5fdc58cd9aed17be23b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
