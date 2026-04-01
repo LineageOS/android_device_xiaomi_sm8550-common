@@ -33,6 +33,24 @@
       "message": "Xiaomi eUICC implementation already belongs in hardware/xiaomi and must be shared across devices.\n\nPlease switch to the common implementation instead.",
       "revId": "be474cb7669d3b0e0170f11a70e1eba20f9ac2c0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5fb7692d_466ba28d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T17:14:34Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_hardware_xiaomi/tree/lineage-23.2/packages/EsimSwitcher",
+      "parentUuid": "05797ec4_c76569d4",
+      "revId": "be474cb7669d3b0e0170f11a70e1eba20f9ac2c0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
