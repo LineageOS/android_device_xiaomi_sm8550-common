@@ -70,6 +70,30 @@
       },
       "revId": "88628138cce41551a2db7a0b2e3ff4f0f5835a8e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a961fe75_880e5eb1",
+        "filename": "init/ueventd.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 623,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T09:09:14Z",
+      "side": 1,
+      "message": "Sorry, I need to buy glasses :)",
+      "parentUuid": "baeb3736_2bf9da91",
+      "range": {
+        "startLine": 623,
+        "startChar": 0,
+        "endLine": 623,
+        "endChar": 75
+      },
+      "revId": "88628138cce41551a2db7a0b2e3ff4f0f5835a8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
