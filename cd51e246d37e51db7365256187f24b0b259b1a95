@@ -33,6 +33,24 @@
       "message": "https://github.com/LineageOS/android_hardware_xiaomi/tree/lineage-23.2/packages/Euicc",
       "revId": "cd51e246d37e51db7365256187f24b0b259b1a95",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f24807f1_ce615d91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T17:13:38Z",
+      "side": 1,
+      "message": "use it",
+      "parentUuid": "9bf4c894_0c67a7bd",
+      "revId": "cd51e246d37e51db7365256187f24b0b259b1a95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
