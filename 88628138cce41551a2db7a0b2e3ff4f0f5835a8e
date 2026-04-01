@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1a7f3616_786a3b9d",
+        "filename": "init/ueventd.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 623,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-01T07:58:58Z",
+      "side": 1,
+      "message": "The sysfs node was changed from night_charging to input_suspend, but lineage_health still references the old path.\nThis will break charging control.\nEither update the path or drop the config if unsupported.",
+      "range": {
+        "startLine": 623,
+        "startChar": 0,
+        "endLine": 623,
+        "endChar": 75
+      },
+      "revId": "88628138cce41551a2db7a0b2e3ff4f0f5835a8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
