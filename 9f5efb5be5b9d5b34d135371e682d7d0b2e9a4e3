@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "22c306c8_0da88929",
+        "filename": "common.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-02T16:42:16Z",
+      "side": 1,
+      "message": "check this\n\nhttps://github.com/LineageOS/android_device_xiaomi_sm8450-common/commit/341bfeae812f4c08b419ebca8eac67363302d48e\n\nhttps://github.com/LineageOS/android_device_xiaomi_sm8450-common/commit/be3e48ebb1ebdfd626f4a9601be4142e5d7dbe38",
+      "range": {
+        "startLine": 229,
+        "startChar": 0,
+        "endLine": 231,
+        "endChar": 108
+      },
+      "revId": "9f5efb5be5b9d5b34d135371e682d7d0b2e9a4e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
