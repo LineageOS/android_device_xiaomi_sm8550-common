@@ -22,6 +22,30 @@
       },
       "revId": "9f5efb5be5b9d5b34d135371e682d7d0b2e9a4e3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4af0163a_e10316d4",
+        "filename": "common.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 35546
+      },
+      "writtenOn": "2026-04-02T16:47:53Z",
+      "side": 1,
+      "message": "That is why\n\nhttps://github.com/LineageOS/android_device_xiaomi_sm8550-common/commit/a04907ce2b75d69ab6bc95a24be62a8ea3370bac",
+      "parentUuid": "22c306c8_0da88929",
+      "range": {
+        "startLine": 229,
+        "startChar": 0,
+        "endLine": 231,
+        "endChar": 108
+      },
+      "revId": "9f5efb5be5b9d5b34d135371e682d7d0b2e9a4e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
