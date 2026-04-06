@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "827b0bfa_6d88764b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-04-06T13:29:13Z",
+      "side": 1,
+      "message": "You\u0027d better switch to FCM from hw/xiaomi.",
+      "revId": "81ccadae28a526e83c021fe8171d7fecb38b1cc8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
