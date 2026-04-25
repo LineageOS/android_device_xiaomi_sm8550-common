@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e90005d_e22ab78d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2026-04-25T14:10:36Z",
+      "side": 1,
+      "message": "requires on fuxi (and maybe nuwa) as some users can end the phone call",
+      "revId": "13cde9999c21e5cc0fc55b33b034a1fa13b7bc9d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
