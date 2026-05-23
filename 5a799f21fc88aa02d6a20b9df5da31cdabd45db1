@@ -34,6 +34,24 @@
       "parentUuid": "f2c0813c_42e62e64",
       "revId": "5a799f21fc88aa02d6a20b9df5da31cdabd45db1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93c50787_2e73ab92",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-05-23T07:01:43Z",
+      "side": 1,
+      "message": "Unfortunately, socrates is not equipped with esim chip",
+      "parentUuid": "4d14097c_0aa522e9",
+      "revId": "5a799f21fc88aa02d6a20b9df5da31cdabd45db1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
