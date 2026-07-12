@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "16fac52d_e5cd08a2",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 999,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-07-12T07:02:38Z",
+      "side": 0,
+      "message": "It is dependent on xiaomi-modem-common\n```logcat\nD MiRilHookAidlQcom(com.xiaomi.mtb): exception, ar.exception \u003d java.lang.NullPointerException: Attempt to invoke interface method \u0027int com.qualcomm.qcrilmsgtunnel.IQcrilMsgTunnel.sendOemRilRequestRaw(byte[], byte[], int)\u0027 on a null object reference\n```",
+      "range": {
+        "startLine": 999,
+        "startChar": 0,
+        "endLine": 999,
+        "endChar": 94
+      },
+      "revId": "b54ee19c0412cd66beff7f9619d17d4b40c56b0f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
