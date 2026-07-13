@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d152c691_2c87ad85",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-07-13T02:07:33Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_hardware_qcom_audio-ar/commit/9915926a5b53f01261ece6f183ae9a5bd9867b4f",
+      "revId": "0395584033fb33058be6acb78fcc996bb8741286",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
