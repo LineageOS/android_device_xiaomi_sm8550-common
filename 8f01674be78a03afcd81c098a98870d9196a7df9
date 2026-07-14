@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d19b7805_7498e551",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27025
+      },
+      "writtenOn": "2026-07-14T10:33:46Z",
+      "side": 1,
+      "message": "reported by Tadi, was tested by loading the missing overlay with magisk module on lineage",
+      "revId": "8f01674be78a03afcd81c098a98870d9196a7df9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
