@@ -16,6 +16,23 @@
       "message": "best we can do without modifying qdcm - Tadi",
       "revId": "73e62fb1b9acef16570e1e35a208432c70c328b0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "14ba502b_1269c783",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2026-07-19T17:12:39Z",
+      "side": 1,
+      "message": "i can\u0027t really verify on color as green line is eating half of the screen, but no color messed up as i can tell",
+      "revId": "73e62fb1b9acef16570e1e35a208432c70c328b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
