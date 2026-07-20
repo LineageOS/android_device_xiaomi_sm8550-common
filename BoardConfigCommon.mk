@@ -191,7 +191,7 @@ DEVICE_MANIFEST_FILE := \
     $(COMMON_PATH)/configs/vintf/manifest_xiaomi.xml
 
 # Vendor security patch
-VENDOR_SECURITY_PATCH := 2026-02-01
+VENDOR_SECURITY_PATCH := 2026-08-01
 
 # Verified Boot
 BOARD_AVB_ENABLE := true
