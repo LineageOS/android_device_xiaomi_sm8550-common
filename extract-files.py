@@ -6,7 +6,6 @@
 
 from extract_utils.file import File
 from extract_utils.fixups_blob import (
-    BlobFixupCtx,
     blob_fixup,
     blob_fixups_user_type,
 )
