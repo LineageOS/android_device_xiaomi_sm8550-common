@@ -46,6 +46,23 @@
       },
       "revId": "b4acc0dab9f9a89b0b572b0da9c9f6ad8266ead4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd7d0fca_5619ab3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-09-28T15:11:57Z",
+      "side": 1,
+      "message": "e.g. https://github.com/LineageOS/issues/issues/272",
+      "revId": "b4acc0dab9f9a89b0b572b0da9c9f6ad8266ead4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
