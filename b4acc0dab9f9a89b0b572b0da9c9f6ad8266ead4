@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fe3d50ba_44918a4f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-28T15:06:07Z",
+      "side": 1,
+      "message": "This is not the proper way to do it. Use:\n\nFixes: \u003cURL_TO_ISSUE\u003e",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 33
+      },
+      "revId": "b4acc0dab9f9a89b0b572b0da9c9f6ad8266ead4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
