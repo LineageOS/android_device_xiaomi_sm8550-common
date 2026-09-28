@@ -59,8 +59,7 @@ BOARD_KERNEL_PAGESIZE    := 4096
 
 BOARD_KERNEL_CMDLINE := \
     mtdoops.fingerprint=$(LINEAGE_VERSION) \
-    swinfo.fingerprint=$(LINEAGE_VERSION) \
-    sysctl.kernel.firmware_config.force_sysfs_fallback=1
+    swinfo.fingerprint=$(LINEAGE_VERSION)
 
 BOARD_BOOTCONFIG := \
     androidboot.console=ttyMSM0 \
