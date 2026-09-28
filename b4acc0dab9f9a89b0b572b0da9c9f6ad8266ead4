@@ -22,6 +22,30 @@
       },
       "revId": "b4acc0dab9f9a89b0b572b0da9c9f6ad8266ead4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "55ac414b_9768fd93",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-09-28T15:09:33Z",
+      "side": 1,
+      "message": "I have tried it before, and it can correctly close the corresponding issue",
+      "parentUuid": "fe3d50ba_44918a4f",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 33
+      },
+      "revId": "b4acc0dab9f9a89b0b572b0da9c9f6ad8266ead4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
