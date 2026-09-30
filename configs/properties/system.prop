@@ -21,7 +21,7 @@ persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
 # Media
-media.settings.xml=/odm/etc/media_profiles_kalama.xml
+media.settings.xml?=/odm/etc/media_profiles_kalama.xml
 
 # RIL
 ril.subscription.types=NV,RUIM
