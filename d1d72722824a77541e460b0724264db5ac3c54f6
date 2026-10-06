@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "631b66e3_f364e14f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-06T07:30:10Z",
+      "side": 1,
+      "message": "What happened here? Why do you have two changes with the same commit message?",
+      "revId": "d1d72722824a77541e460b0724264db5ac3c54f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
