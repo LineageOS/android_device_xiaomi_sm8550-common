@@ -16,6 +16,23 @@
       "message": "we need some time to test it",
       "revId": "710116806e5a1f68cecc8f249ae3345183bffe7c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7885130_453d6f47",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-10-06T00:29:53Z",
+      "side": 1,
+      "message": "In all scenarios, it has about a 0.4W power drop",
+      "revId": "710116806e5a1f68cecc8f249ae3345183bffe7c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
