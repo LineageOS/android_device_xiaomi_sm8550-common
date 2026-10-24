@@ -7,14 +7,10 @@ audio.deep_buffer.media=true
 audio.offload.video=true
 audio.sys.noisy.broadcast.delay=600
 audio.sys.offload.pstimeout.secs=3
-persist.vendor.audio.auto.scenario=true
 persist.vendor.audio.ha_proxy.enabled=true
 ro.af.client_heap_size_kbyte=7168
 ro.audio.flinger_standbytime_ms=2000
 ro.audio.monitorRotation=true
-ro.vendor.audio.feature.spatial=7
-ro.vendor.audio.gain.support=true
-ro.vendor.audio.support.sound.id=true
 vendor.audio.adm.buffering.ms=2
 vendor.audio.c2.preferred=true
 vendor.audio.compress_capture.aac=true
@@ -82,7 +78,6 @@ persist.vendor.bt.aac_vbr_frm_ctl.enabled=true
 persist.vendor.qcom.bluetooth.a2dp_mcast_test.enabled=false
 persist.vendor.qcom.bluetooth.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aac-ldac-aptxadaptiver2
 persist.vendor.qcom.bluetooth.aac_frm_ctl.enabled=true
-persist.vendor.qcom.bluetooth.aac_vbr_ctl.enabled=true
 persist.vendor.qcom.bluetooth.aptxadaptiver2_1_support=true
 persist.vendor.qcom.bluetooth.scram.enabled=false
 persist.vendor.qcom.bluetooth.twsp_state.enabled=false
@@ -90,13 +85,10 @@ ro.bluetooth.a2dp_offload.supported=true
 
 # Camera
 camera.disable_zsl_mode=true
-persist.sys.miui.camera.version=3.0
 ro.camera.enableCamera1MaxZsl=1
-ro.hardware.camera=xiaomi
 vendor.camera.aux.packagelist=com.android.camera,org.lineageos.aperture,org.lineageos.aperture.dev
 
 # Display
-ro.vendor.displayfeature.dump=true
 vendor.display.comp_mask=0
 vendor.display.disable_excl_rect=0
 vendor.display.disable_excl_rect_partial_fb=1
@@ -114,7 +106,6 @@ vendor.display.enable_hdr10_gpu_target=1
 vendor.display.enable_optimize_refresh=0
 vendor.display.enable_rc_support=1
 vendor.display.enable_rounded_corner=1
-vendor.display.use_frame_scheduler_extension=1
 vendor.display.use_smooth_motion=0
 vendor.display.vds_allow_hwc=1
 
@@ -128,7 +119,6 @@ drm.service.enabled=true
 vendor.wv.oemcrypto.debug.enable_hlos_data_path=true
 
 # Fingerprint
-persist.vendor.fingerprint.sensor_modules=goodix_fod
 persist.vendor.fingerprint.type=udfps_optical
 
 # FM
@@ -186,23 +176,13 @@ ro.incremental.enable=yes
 # Media
 debug.c2.use_dmabufheaps=1
 debug.stagefright.c2inputsurface=-1
-ro.mediaserver.64b.enable=true
 vendor.mm.enable.qcom_parser=16777215
-
-# OEM unlock
-ro.oem_unlock_supported=1
 
 # Power
 ro.vendor.extension_library=libqti-perfd-client.so
 
-# PSI
-vendor.pasr.activemode.enabled=true
-
 # QcomSysd
 persist.vendor.qcomsysd.enabled=1
-
-# QSPM
-ro.vendor.qspm.enable=true
 
 # Radio
 persist.radio.multisim.config=dsds
@@ -235,9 +215,6 @@ vendor.usb.rndis.func.name=gsi
 vendor.usb.use_ffs_mtp=1
 vendor.usb.use_gadget_hal=1
 
-# Vibrator
-ro.vendor.mm.vibrator.sys_path=/sys/class/qcom-haptics
-
 # Volume
 ro.config.alarm_vol_steps=15
 ro.config.media_vol_steps=25
@@ -245,10 +222,4 @@ ro.config.system_vol_steps=15
 ro.config.vc_call_vol_steps=11
 
 # WLAN
-ro.hardware.wlan.chip=kiwi_v2
-ro.hardware.wlan.dbs=2
-ro.hardware.wlan.mimo=1
-ro.hardware.wlan.vendor=qcom
-ro.vendor.net.enable_passpoint_r1=1
 wifi.aware.interface=wifi-aware0
-
