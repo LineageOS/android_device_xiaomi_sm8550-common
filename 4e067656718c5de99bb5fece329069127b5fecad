@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce88b0ca_7adc7c12",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35315
+      },
+      "writtenOn": "2026-11-06T11:33:06Z",
+      "side": 1,
+      "message": "```bash\nsocrates:/ # cmd phone cc get-value vonr_enabled_bool                                                                                                \nvonr_enabled_bool                                                      BOOLEAN         true\nsocrates:/ # \n```",
+      "revId": "4e067656718c5de99bb5fece329069127b5fecad",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
