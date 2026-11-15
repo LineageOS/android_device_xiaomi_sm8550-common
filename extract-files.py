@@ -75,6 +75,11 @@ blob_fixups: blob_fixups_user_type = {
         'odm/lib64/nfc_nci.nqx.default.hw.so'
     ): blob_fixup()
         .add_needed('libbase_shim.so'),
+    (
+        'vendor/bin/hw/vendor.qti.media.c2@1.0-service',
+        'vendor/bin/hw/vendor.qti.media.c2audio@1.0-service'
+    ): blob_fixup()
+        .sig_replace('00 21 80 52', '00 24 80 52'),
     'vendor/etc/media_codecs_kalama.xml': blob_fixup()
         .regex_replace(r'\s*<MediaCodec\b[^>]*name=\"c2\.dolby\.[^>]*>[\s\S]*?<\/MediaCodec>', '')
         .regex_replace('.+media_codecs_(dolby_audio|google_audio|google_c2|google_telephony|vendor_audio).+\n', ''),
