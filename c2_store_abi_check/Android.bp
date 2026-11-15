@@ -1,0 +1,15 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library_shared {
+    name: "libqti_c2_store_abi_check",
+    vendor: true,
+    defaults: ["libcodec2-hidl-defaults@1.0"],
+    shared_libs: ["libcodec2_hidl@1.2"],
+    srcs: [
+        "abi_check_1_0.cpp",
+        "abi_check_1_2.cpp",
+    ],
+}
