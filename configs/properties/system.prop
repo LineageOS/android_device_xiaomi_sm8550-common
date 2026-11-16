@@ -2,7 +2,8 @@
 ro.camerax.extensions.enabled=true
 
 # HWUI
-debug.hwui.skia_atrace_enabled=false
+debug.hwui.skia_tracing_enabled=false
+debug.hwui.skia_use_perfetto_track_events=false
 ro.hwui.drop_shadow_cache_size=6
 ro.hwui.gradient_cache_size=1
 ro.hwui.layer_cache_size=48
