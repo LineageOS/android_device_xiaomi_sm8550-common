@@ -25,7 +25,6 @@ ro.vendor.audio.soundtrigger=sva
 ro.camerax.extensions.enabled=true
 
 # Display
-debug.sf.set_idle_timer_ms=1100
 persist.vendor.dc_backlight.enable=false
 persist.vendor.dc_backlight.threshold=0
 ro.vendor.all_modes.colorpick_adjust=true
